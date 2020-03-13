@@ -46,7 +46,7 @@ hs_err_pid*
 
 # Maven
 target/
-orchid-web/target/
+orchid-frame/target/
 orchid-demo/target/
 
 ## Maven release plugin
